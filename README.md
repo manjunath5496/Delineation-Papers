@@ -85,44 +85,43 @@ for Road Network Extraction</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(42).pdf" style="text-decoration:none;">Skeletonisation using an extended
 Euclidean distance transform</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(43).pdf" style="text-decoration:none;">Topology-Preserving Deep Image Segmentation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(44).pdf" style="text-decoration:none;">A distance-based loss for smooth and continuous skin layer segmentation in optoacoustic images</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(45).pdf" style="text-decoration:none;">TopoGAN: A Topology-Aware Generative
+Adversarial Network</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(46).pdf" style="text-decoration:none;">Stacked U-Nets with Multi-Output for Road Extraction</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(47).pdf" style="text-decoration:none;">Reconstructing Road Network Graphs from both Aerial Lidar and Images</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(48).pdf" style="text-decoration:none;">A Topology Preserving Level Set Method
+for Geometric Deformable Models</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(49).pdf" style="text-decoration:none;">A Review of Vessel Extraction Techniques and Algorithms</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(50).pdf" style="text-decoration:none;">Road detection with EOSResUNet and post vectorizing algorithm</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(51).pdf" style="text-decoration:none;">Topology Aware Fully Convolutional Networks For Histology Gland Segmentation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(52).pdf" style="text-decoration:none;">VecRoad: Point-based Iterative Graph Exploration for Road Graphs Extraction</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(53).pdf" style="text-decoration:none;">Learning to Label Aerial Images from Noisy Data</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(54).pdf" style="text-decoration:none;">Efficient Algorithms for Moral Lineage Tracing </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(55).pdf" style="text-decoration:none;">Empirical Evaluation Of Automatically Extracted Road Axes</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(56).pdf" style="text-decoration:none;">Ridge-Based Vessel Segmentation
+in Color Images of the Retina </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(57).pdf" style="text-decoration:none;">Automatic extraction of roads from aerial images based on scale space and snakes</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(58).pdf" style="text-decoration:none;">Learning to Detect Roads in High-Resolution Aerial Images</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(59).pdf" style="text-decoration:none;">A 3D 3–Subiteration Thinning Algorithm
+for Medial Surfaces</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(60).pdf" style="text-decoration:none;">D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(61).pdf" style="text-decoration:none;">Fully Convolutional Network for Automatic Road Extraction from Satellite Imagery</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(62).pdf" style="text-decoration:none;">Digital Topology</a></li>
  
    </ul>
      
