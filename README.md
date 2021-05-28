@@ -4,96 +4,86 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(1).pdf" style="text-decoration:none;">Topological Map Extraction From Overhead Images</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(2).pdf" style="text-decoration:none;">Promoting Connectivity of Network-Like
+Structures by Enforcing Region Separation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(3).pdf" style="text-decoration:none;">Joint Segmentation and Path Classification of Curvilinear Structures</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(4).pdf" style="text-decoration:none;">SpaceNet: A Remote Sensing Dataset and Challenge Series</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(5).pdf" style="text-decoration:none;">City-Scale Road Extraction from Satellite Imagery v2: Road Speeds and Travel Times</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(6).pdf" style="text-decoration:none;">Automated analysis of whole brain
+vasculature using machine learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(7).pdf" style="text-decoration:none;">Topology cuts: A novel min-cut/max-flow algorithm for topology preserving segmentation in ND images</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(8).pdf" style="text-decoration:none;"> Joint 3-D vessel segmentation and centerline extraction using oblique Hough forests with steerable filters</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(9).pdf" style="text-decoration:none;">Neural Turtle Graphics for Modeling City Road Layouts</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(10).pdf" style="text-decoration:none;">A higher-order CRF model for road network extraction </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(11).pdf" style="text-decoration:none;">Leveraging Crowdsourced GPS Data for Road Extraction from Aerial Imagery</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(12).pdf" style="text-decoration:none;">Improved Road Connectivity by Joint Learning of Orientation and Segmentation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(13).pdf" style="text-decoration:none;">Large Scale Image Segmentation with
+Structured Loss based Deep Learning for Connectome Reconstruction</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(14).pdf" style="text-decoration:none;">clDice - a Novel Topology-Preserving Loss Function for Tubular Structure Segmentation</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(15).pdf" style="text-decoration:none;">DeepRoadMapper: Extracting Road Topology from Aerial Images</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(16).pdf" style="text-decoration:none;">Machine Learning For Aerial Image Labeling</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(17).pdf" style="text-decoration:none;">DeepGlobe 2018: A Challenge to Parse the Earth through Satellite Images</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(18).pdf" style="text-decoration:none;">A Topological Loss Function for
+Deep-Learning based Image Segmentation using Persistent Homology</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(19).pdf" style="text-decoration:none;">Digital Topology: Introduction and Survey</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(20).pdf" style="text-decoration:none;">Matching Adversarial Networks</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(21).pdf" style="text-decoration:none;">Road Detection and Centerline Extraction Via Deep Recurrent Convolutional Neural Network U-Net</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(22).pdf" style="text-decoration:none;">Iterative Deep Learning for
+Road Topology Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(23).pdf" style="text-decoration:none;">Whole-Brain Vasculature
+Reconstruction at the Single Capillary Level</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(24).pdf" style="text-decoration:none;">Towards Reliable Evaluation of Algorithms for Road Network Reconstruction from Aerial Images</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(25).pdf" style="text-decoration:none;">Reconstructing Loopy Curvilinear Structures Using Integer Programming</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(26).pdf" style="text-decoration:none;">TopoAL: An Adversarial Learning Approach for Topology-Aware Road Segmentation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(27).pdf" style="text-decoration:none;">DeepVesselNet: Vessel Segmentation, Centerline Prediction, and Bifurcation Detection in 3-D Angiographic Volumes</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(28).pdf" style="text-decoration:none;">Tree Shape Priors with Connectivity Constraints using Convex Relaxation on General Graphs</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(29).pdf" style="text-decoration:none;">Beyond the Pixel-Wise Loss for Topology-Aware Delineation </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(30).pdf" style="text-decoration:none;">Probabilistic Image Segmentation with Closedness Constraints</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(31).pdf" style="text-decoration:none;">Recurrent U-Net for Resource-Constrained Segmentation</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(32).pdf" style="text-decoration:none;">TopoGAN: A Topology-Aware Generative
+Adversarial Network &minus; Supplementary Material</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(33).pdf" style="text-decoration:none;">Inferring Road Maps from Global
+Positioning System Traces</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(34).pdf" style="text-decoration:none;">A Multi-task Network to Detect Junctions in Retinal Vasculature</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(35).pdf" style="text-decoration:none;">Computational Topology: 
+An Introduction</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(36).pdf" style="text-decoration:none;">Image-Conditioned Graph Generation
+for Road Network Extraction</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(37).pdf" style="text-decoration:none;">Shape-Aware Complementary-Task Learning for Multi-Organ Segmentation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(38).pdf" style="text-decoration:none;">Graph cut based image segmentation with connectivity priors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(39).pdf" style="text-decoration:none;">Reconstructing Curvilinear Networks Using Path Classifiers and Integer Programming</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(40).pdf" style="text-decoration:none;">RoadTracer: Automatic Extraction of Road Networks from Aerial Images</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(41).pdf" style="text-decoration:none;">Learning Tree-Structured Representation for 3D Coronary Artery Segmentation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(42).pdf" style="text-decoration:none;">Skeletonisation using an extended
+Euclidean distance transform</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Delineation-Papers/blob/master/d(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
 Designing Scalable Software for Multicore Processors</a></li>
